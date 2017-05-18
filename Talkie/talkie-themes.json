@@ -1,0 +1,96 @@
+{
+  "themes-data": [
+    {
+      "id": 0,
+      "name": "jungle",
+      "isSelected": true,
+      "audios": [
+        {
+          "id": 0,
+          "name": "muzeltov.aac"
+        },
+        {
+          "id": 1,
+          "name": "boom.aac"
+        },
+        {
+          "id": 2,
+          "name": "bonjour.aac"
+        },
+        {
+          "id": 3,
+          "name": "whatscracking.aac"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "isSelected": false,
+      "audios": [
+        {
+          "id": 0,
+          "name": ""
+        },
+        {
+          "id": 1,
+          "name": ""
+        },
+        {
+          "id": 2,
+          "name": ""
+        },
+        {
+          "id": 3,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "isSelected": false,
+      "audios": [
+        {
+          "id": 0,
+          "name": ""
+        },
+        {
+          "id": 1,
+          "name": ""
+        },
+        {
+          "id": 2,
+          "name": ""
+        },
+        {
+          "id": 3,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "isSelected": false,
+      "audios": [
+        {
+          "id": 0,
+          "name": ""
+        },
+        {
+          "id": 1,
+          "name": ""
+        },
+        {
+          "id": 2,
+          "name": ""
+        },
+        {
+          "id": 3,
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

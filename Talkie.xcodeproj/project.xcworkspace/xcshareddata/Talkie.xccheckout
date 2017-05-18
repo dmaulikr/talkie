@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>244EA12B-6ACC-4C33-B962-6FCBDD17DE39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Talkie</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C3EFC948FA499C660C6CB4F750C8A21C5FD7AF5</key>
+		<string>https://bitbucket.org/muhammadjabbar88/talkie.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Talkie.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C3EFC948FA499C660C6CB4F750C8A21C5FD7AF5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/muhammadjabbar88/talkie.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C3EFC948FA499C660C6CB4F750C8A21C5FD7AF5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C3EFC948FA499C660C6CB4F750C8A21C5FD7AF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>talkie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
